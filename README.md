@@ -36,6 +36,7 @@ Karen can be configured via the `config.json` file in Karen's root directory. Th
 }
 ```
 Karen has a few configurable settings:
+
 `names` [array of strings]: A list of names that will be used as the trigger word to activate the voice assistant.
 
 `land` [string]: The ISO 639-1 language code to be used. This is powered by Google translate.
