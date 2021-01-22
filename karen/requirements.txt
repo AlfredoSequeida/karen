@@ -1,0 +1,5 @@
+gTTS
+googletrans==4.0.0-rc1
+python-vlc
+pyaudio
+SpeechRecognition 
