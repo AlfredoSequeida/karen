@@ -46,9 +46,9 @@ Karen has a few configurable settings:
 ## Add-ons
 The functionality for Karen comes from its add-ons, which are Python programs specifically made for use with Karen. [Karen has an add-on repository with add-ons available for you to install ](https://alfredo.lol/karen/). All of the add-ons in this repository are open source and are made by Karen's community.
 
-Add-ons can be installed manually, using Karen's add-on manager, or via the [Karen]() app. For more information on creating and installing add-ons, you can [read the documentation](https://alfredo.lol/karen/docs/0.0.1).
+Add-ons can be installed manually, using Karen's add-on manager, or via the [Karen](https://github.com/AlfredoSequeida/karen-app) app. For more information on creating and installing add-ons, you can [read the documentation](https://alfredo.lol/karen/docs/0.0.1).
 
 ## More
-As mentioned before, [Karen also has a mobile app]() that can be used to install and configure add-ons. This mobile app is also open source and cross-platform (IOS & Android) made using React Native.
+As mentioned before, [Karen also has a mobile app](https://github.com/AlfredoSequeida/karen-app) that can be used to install and configure add-ons. This mobile app is also open source and cross-platform (IOS & Android) made using React Native.
 
-If you want to deploy Karen on a raspberry pi and create an enclosure for it, [open source stl and openSCAD files for 3D printing are available]().
+If you want to deploy Karen on a raspberry pi and create an enclosure for it, [open source stl and openSCAD files for 3D printing are available](https://github.com/AlfredoSequeida/karen-model).
