@@ -46,6 +46,8 @@ Karen has a few configurable settings:
 `addons` [array of objects]: The addons setting is where you will find all your installed add-ons. This setting is automatically populated by Karen at run time, which means that every time you install a new add-on, Karen must be restarted. This is also where you can configure the settings for a specific add-on if an add-on you have installed supports user settings. 
 
 ## Add-ons
+![addon demo](https://imgur.com/kkeyhaz.gif)
+
 The functionality for Karen comes from its add-ons, which are Python programs specifically made for use with Karen. [Karen has an add-on repository with add-ons available for you to install ](https://alfredo.lol/karen/). All of the add-ons in this repository are open source and are made by Karen's community.
 
 Add-ons can be installed manually, using Karen's add-on manager, or via the [Karen](https://github.com/AlfredoSequeida/karen-app) app. For more information on creating and installing add-ons, you can [read the documentation](https://alfredo.lol/karen/docs/0.0.1).
