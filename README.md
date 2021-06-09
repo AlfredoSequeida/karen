@@ -3,7 +3,7 @@ Click [here](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHX
 ![Karen](https://alfredo.lol/static/karen/img/karen_small.png)
 ### open source voice assistant
 
-![demo](https://imgur.com/LbzbOa4.gif)
+![demo](https://imgur.com/skUVfLH.gif)
 
 ## Installing
 Karen is a standalone Python program, which means that it runs like any other Python program or script. Python 3.5 or newer is required. 
