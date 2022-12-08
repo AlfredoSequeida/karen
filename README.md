@@ -1,6 +1,6 @@
 Click [here](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHXhA3jShGG_jIrRprJ) to see the video series for how Karen was made.
 
-![Karen](https://alfredo.lol/static/karen/img/karen_small.png)
+![Karen](https://github.com/AlfredoSequeida/KarenBackend/blob/main/karen/static/karen/img/karen_small.png)
 ### open source voice assistant
 
 Note: The Karen website containing the API and docs is no longer up,I have made the website codebase available [here](https://github.com/AlfredoSequeida/KarenBackend)
